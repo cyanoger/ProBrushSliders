@@ -22,7 +22,8 @@ It also duplicates main "Brushes and stuff" toolbar settings, which basically un
 <br />
 Examples:<br />
 <center><img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/edec7ae1-3846-4ee4-aa6f-d1cac623e567" />
-<img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/37d80f1a-1617-4e24-b2a9-e7cfda599b52" /></center>
+<img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/e4f95070-898a-4559-8f39-d3883f50af93" />
+</center>
 <br />
 
 # Compatibility
