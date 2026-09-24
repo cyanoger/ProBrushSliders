@@ -65,7 +65,6 @@ None. Making it any fancier that it is now is unfortunately out of my scope for 
 
 # Known bugs/TODO
 
-- Once enabled - cannot be disabled, only removed from the folder. Root cause of the behavior known and caused by rather stupid coding skills. Will fix later.
 - Updates each xx ms instead on the slider release. Adjusting slider makes every other brush slider for the same setting also move in live. This differs with how every slider in Krita behaves, and may (or may not) affect the end user experience. Will fix later.
 - Can't be infinitely adjusted in width, otherwise it wouldn't be possible to make it as slim as it is. That's a Qt quirk I failed to work around. Therefore, the only intended use is either as a floating window or at the side of the canvas/other docker.
 
