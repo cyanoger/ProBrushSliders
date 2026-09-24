@@ -1,8 +1,7 @@
-# krita-vertical-brush-docker
+# What?
 
-Docker that features vertical brush sliders for size and opacity for touchscreen devices - tablets, transformers/2-in-1, drawing monitors, and mobile devices.
+Docker that features vertical brush sliders for size and opacity for touchscreen devices - tablets, transformers/2-in-1, drawing monitors, and mobile devices. See below/<br />
 
-<br />
 <center><img width="76" height="391" alt="short" src="https://github.com/user-attachments/assets/6c55c73a-1a31-4fc2-8c21-d7aaedab864d" />
 <img width="61" height="959" alt="looooooong" src="https://github.com/user-attachments/assets/71f61cdc-8478-40e0-bcc1-bfdfc2aa2ba5" />
 </center>
@@ -16,7 +15,7 @@ Details - https://docs.krita.org/sl/reference_manual/dockers.html
 # Why?
 
 This docker is made with the sole purpose of making Krita far easier to use on the (touch)screens.<br />
-Before that, user had to stick with built-in toolbars with horizontal brush sliders, or use gestures, keep using keyboard hotkeys, resort to macropads, or use 3rd party software like TabletFriend or Tablet Pro for adjusting brush parameters in a more convenient manner.<br />
+Before that, user would've had to stick with built-in toolbars with horizontal brush sliders, use gestures, keep using keyboard hotkeys, resort to macropads, or use 3rd party software like TabletFriend or Tablet Pro for adjusting brush parameters in a more convenient manner.<br />
 Adding two sliders makes UX far better, expecially considering Krita already has decent gesture support.<br />
 Effectively, adding that thing alone to Krita's toolset makes it feel almost like any other drawing software tailored for the de-facto Procreate-alike experience.<br />
 It also duplicates main "Brushes and stuff" toolbar settings, which basically unchains interface customization and lets moving the toolbar to more convenient positions or removing it altogether, thus freeing up real space estate.<br />
