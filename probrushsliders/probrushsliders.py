@@ -6,8 +6,6 @@ from PyQt5.QtWidgets import (
 )
 
 class VerticalBarSlider(QWidget):
-    """Vertical bar with value text written vertically.
-    Click or drag anywhere → value jumps to that position."""
 
     def __init__(self, label_prefix="", is_percent=False, parent=None):
         super().__init__(parent)
