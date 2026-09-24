@@ -21,7 +21,7 @@ Adding two sliders makes UX far better, expecially considering Krita already has
 It also duplicates main "Brushes and stuff" toolbar settings, which basically unchains interface customization and lets moving the toolbar to more convenient positions or removing it altogether, thus freeing up real space estate.<br />
 <br />
 Examples:<br />
-<center><<img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/edec7ae1-3846-4ee4-aa6f-d1cac623e567" /> 
+<center><img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/edec7ae1-3846-4ee4-aa6f-d1cac623e567" />
 <img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/37d80f1a-1617-4e24-b2a9-e7cfda599b52" /></center>
 <br />
 
