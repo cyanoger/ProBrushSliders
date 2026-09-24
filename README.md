@@ -18,7 +18,11 @@ Details - https://docs.krita.org/sl/reference_manual/dockers.html
 This docker is made with the sole purpose of making Krita far easier to use on the (touch)screens.<br />
 Before that, user had to stick with built-in toolbars with horizontal brush sliders, or use gestures, keep using keyboard hotkeys, resort to macropads, or use 3rd party software like TabletFriend or Tablet Pro for adjusting brush parameters in a more convenient manner.<br />
 Adding two sliders makes UX far better, expecially considering Krita already has decent gesture support. Effectively, adding that thing alone to Krita's toolset makes it fell almost like any other drawing software tailored for the de-facto Procreate-alike experience.<br />
-It also duplicates main "Brushes and stuff" toolbar settings, which basically unchains interface customization and lets moving the toolbar to more convenient positions or removing it altogether, thus freeing up real space estate.
+It also duplicates main "Brushes and stuff" toolbar settings, which basically unchains interface customization and lets moving the toolbar to more convenient positions or removing it altogether, thus freeing up real space estate.<br />
+<br />
+Examples:<br />
+<img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/edec7ae1-3846-4ee4-aa6f-d1cac623e567" /><br />
+<img width="514" height="1032" alt="image" src="https://github.com/user-attachments/assets/37d80f1a-1617-4e24-b2a9-e7cfda599b52" /><br />
 
 # Compatibility
 
