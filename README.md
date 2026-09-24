@@ -65,18 +65,20 @@ None. Making it any fancier that it is now is unfortunately out of my scope for 
 
 # Known bugs/TODO
 
-- Once enabled - cannot be disabled, only removed from the folder. Root cause of the behavior is unknown. Will fix later.
-- Updates each tick instead on the slider release. Adjusting slider makes every other brush slider for the same setting also move in live. This differs with how every slider in Krita behaves, and may (or may not) affect the end user experience. Will fix later.
-- Can't be infinitely adjusted in width, otherwise it wouldn't be possible to make it as slim as it is. It is a Qt quirk I failed to work around. Therefore, the only intended use of it is either as a floating window or on the side of the canvas/other docker.
+- Once enabled - cannot be disabled, only removed from the folder. Root cause of the behavior known and caused by rather stupid coding skills. Will fix later.
+- Updates each xx ms instead on the slider release. Adjusting slider makes every other brush slider for the same setting also move in live. This differs with how every slider in Krita behaves, and may (or may not) affect the end user experience. Will fix later.
+- Can't be infinitely adjusted in width, otherwise it wouldn't be possible to make it as slim as it is. That's a Qt quirk I failed to work around. Therefore, the only intended use is either as a floating window or at the side of the canvas/other docker.
 
 # Expected behavior
 
-If you hide all dockers - It will go away together with all other dockers. This is different from how toolbar on the top of the workspace behaves (it's called Brushes and stuff), which usually has these sliders and keeps them when dockers are being hidden. It is expected, and there's no workaround other than resorting to the methods listed at the second paragraph of "Why".
+If you hide all dockers - It will go away together with all other dockers. This is different from how toolbar at the top of the workspace behaves (it's called Brushes and stuff), which usually has these sliders and keeps them when dockers are being hidden. It is expected, and there's no workaround other than resorting to the methods listed at the second paragraph of "Why".
 
-# TODO
+# Disclaimer
 
 I may (or may not) improve this docker as I continue to make art.<br />
-Owning, using various devices/peripherals and successfully producing content with them makes it far more likely.
+Owning, using various devices/peripherals and successfully producing content with them makes it far more likely. This cannot be influenced, however, as such no expectations on bugfixes or improvements should be made.<br />
+I take absolutely no responsibility for any damages to the device, peripheral, software, operating system, and Krita instance in particular the user is trying installing and using this on.<br />
+Also, make backups.
 
 # See also (things I use with Krita/Photoshop)
 - TabletFriend - FOSS Windows Explorer sidebar, specifically designed for artists, that provides on-screen keyboard shoctruts in appealing manner. Utilizes ancient APIs, which unfortunately makes it broken on Windows 11 once switched to the tablet mode (there's a gap between the bottom of the sidebar and the taskbar). Quite handy otherwise https://github.com/Martenfur/TabletFriend
