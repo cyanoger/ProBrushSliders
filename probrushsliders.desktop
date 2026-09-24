@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=probrushsliders
+X-Python-2-Compatible=false
+Name=ProBrushSliders
+Comment=Vertical Brush Size and Opacity sliders docker
