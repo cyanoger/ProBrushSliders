@@ -74,10 +74,9 @@ If you hide all dockers - It will go away together with all other dockers. This 
 
 # Disclaimer
 
-I may (or may not) improve this docker as I continue to make art.<br />
-Owning, using various devices/peripherals and successfully producing content with them makes it far more likely. This cannot be influenced, however, as such no expectations on bugfixes or improvements should be made.<br />
-I take absolutely no responsibility for any damages to the device, peripheral, software, operating system, and Krita instance in particular the user is trying installing and using this on.<br />
-Also, make backups.
+I may (or may not) improve this docker as I continue to art. Owning, using various devices/peripherals and successfully producing content with them makes it far more likely. This cannot be influenced, however, as such, no expectations of bugfixes or improvements should take place.<br />
+I take absolutely no responsibility for any damages to the device, peripheral, software, operating system, Krita instance in particular the user is trying to install/use this on, and files user is trying to apply this on.<br />
+Also, make backups.<br />
 
 # See also (things I use with Krita/Photoshop)
 - TabletFriend - FOSS Windows Explorer sidebar, specifically designed for artists, that provides on-screen keyboard shoctruts in appealing manner. Utilizes ancient APIs, which unfortunately makes it broken on Windows 11 once switched to the tablet mode (there's a gap between the bottom of the sidebar and the taskbar). Quite handy otherwise https://github.com/Martenfur/TabletFriend
