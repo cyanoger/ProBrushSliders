@@ -29,7 +29,8 @@ Examples:<br />
 
 # Compatibility
 
-Krita in both Qt5 and Qt6 is supported thanks to the conditional check.
+Krita in Qt5 (version 5.x.x) is supported.
+Qt6 (6.x.x) is considered but not yet checked. Easy to fix/add if anything. TBD.
 
 # Installation
 
@@ -67,6 +68,7 @@ None. Making it any fancier that it is now is unfortunately out of my scope for 
 
 - Updates each xx ms instead on the slider release. Adjusting slider makes every other brush slider for the same setting also move in live. This differs with how every slider in Krita behaves, and may (or may not) affect the end user experience. Will fix later.
 - Can't be infinitely adjusted in width, otherwise it wouldn't be possible to make it as slim as it is. That's a Qt quirk I failed to work around. Therefore, the only intended use is either as a floating window or at the side of the canvas/other docker.
+- Qt6 Krita compatibility is not yet checked.
 
 # Expected behavior
 
